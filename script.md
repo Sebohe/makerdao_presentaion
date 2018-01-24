@@ -8,7 +8,7 @@ MakerDAO is an organization that has been tackling the problem of creating a sta
 
 slide 2 (pizza and price chart)
 
-There is this famous story related with this. On May 22nd, 2010 someone bought two pizzas for 10000 bitcoins. Those bitcoins are worth a lot more dollars now a days. Having a stable coin is good for general transactions. It removes the uncertainty of the price fluctuations and so now you are less scared about price fluctuation. You are now more willing to accept the stable coin as a payment. MakerDAO believes that stable coins will unlock a great potential in the current crypto coins ecosystem.
+There is this famous story related with this. On May 22nd, 2010 someone bought two pizzas for 10000 bitcoins. Those bitcoins are worth a lot more dollars now a days. Having a stable coin is good for general transactions. It removes the uncertainty of the price fluctuations and now people are more willing to accept the stable coin as a payment. MakerDAO believes that stable coins will unlock a great potential in the current crypto coins ecosystem.
 
 Slide 3 (Image of all of the coins)
 
