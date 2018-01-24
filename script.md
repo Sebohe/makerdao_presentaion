@@ -12,7 +12,7 @@ There is this famous story related with this. On May 22nd, 2010 someone bought t
 
 Slide 3 (Image of all of the coins)
 
-Before I go any further I want to mention that there are three cryto coins of which I'm going to talk about. We have ether (ETH), maker (MKR), and dai (DAI)
+Before I go any further I want to mention that there are three cryto coins of which I'm going to talk about. We have ether (ETH), maker (MKR), and dai (DAI). All three of these are running on the the Ethereum blockchain.
 
 slide 4 (image of mkr)
 
