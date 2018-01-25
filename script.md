@@ -16,7 +16,7 @@ Before I go any further I want to mention that there are three cryto coins of wh
 
 slide 4 (image of mkr)
 
-MKR is the governance token of Dai. Maker owners have the responsibility of governing the Dai stable coin. They also have the ability to propose new collaterals that could be used instead of relying only on ether. Maker owners can also vote for increasing the collateral limit, which is right now 50 million usd. Maker owners are in charge of ensuring that the system runs well. This means that MKR can control several parameters of system to maintain the stability of dai. If MKR owners perform well, they are reward. The opposite is also true.
+MKR is the governance token of Dai. Maker owners have the responsibility of governing the Dai stable coin. They also have the ability to propose new collaterals that could be used instead of relying only on ether. Maker owners can also vote for increasing the collateral limit, which is right now 50 million usd. Maker owners are in charge of ensuring that the system runs well. This means that MKR can control several parameters of the system to maintain the stability of dai. If MKR owners perform well, they are reward. The opposite is also true.
 
 slide 5 (image of dai)
 
