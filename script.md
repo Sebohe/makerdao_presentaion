@@ -38,7 +38,9 @@ Some use cases for the dai can include the following. A person can buy some dai 
  
 What are some of the risks of the system? The main risk of the system is a complete crash of the collateral, ether. This would cause the whole system to be under collateralized. At this point a vote is called for a global settlement. When the global settlement is triggered, the system freezes. Then payments are sent out. If you own 100dai then you will be payed with 100usd worth of ether. Another risk is if there is an unknown bug in the code.
     
-In the future, it is expect that by this summer. Dai is going to be backed by several collaterals, making it a multi collateral stable coin
+Dai is expected to have multiple colalterals by summer 2018, giving more robustness to the stable coin.
+
+Thank you.
 
 Slide 9 (end)
 
