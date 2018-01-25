@@ -30,7 +30,7 @@ When you want to close a CDP, all you need to do is pay back the dai that you ha
 
 slide 7 (image of mortgaged eth)
 
-Now I want everyone to be clear with what has just been accomplished. We just mortgage some ether, received some stable crypto coin, all without a bank.
+Now I want everyone to be clear with what has just been accomplished. We just mortgage some ether, received some stable crypto coin, all without a bank. I find this pretty amazing.
 
 Some use cases for the dai can include the following. A person can buy some dai at the market. Now that person doesn't need to worry about the price volatility of crypto coins knowing very well that his dai is backed by an equivalent dollars worth of collateral. This person can benefit from the stability of the dai with out opening a CDP. Another use case is create a CDP, take out some dai, and then use the dai to buy more ether. If the price of ether goes up, you can sell it for some dai and close the CDP at a profit. This is essentially a decentralized version of margin trading. 
  
