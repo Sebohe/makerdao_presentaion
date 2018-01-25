@@ -7,6 +7,7 @@ I want everyone to be aware that I believe that blockchains are going to solve a
 MakerDAO is an organization that has been tackling the problem of creating a stable coin. A stable coin is a crypto currency in which its value has minimal variation in regards to fiat currency. People that currently own crypto currencies like ether are not spending them. Why would they spend something which has the possibility of going up in price tomorrow. Simply put, most crypto coins are terrible currencies due to their volatility.
 
 slide 2 (pizza and price chart)
+
 A famous example of this problem occured on May 22nd, 2010 someone bought two pizzas for 10000 bitcoins. Those bitcoins are worth a lot more dollars now a days. Having a stable coin is good for general transactions. It removes the uncertainty of the price fluctuations and now people are more willing to accept the stable coin as a payment. MakerDAO believes that stable coins will unlock a great potential in the crypto currencies ecosystem.
 
 Slide 3 (Image of all of the coins)
@@ -34,6 +35,7 @@ Now I want everyone to be clear with what has just been accomplished. We just mo
 Some use cases for the dai can include the following. A person can buy some dai at the market. Now that person doesn't need to worry about the price volatility of crypto coins knowing very well that his dai is backed by an equivalent dollars worth of collateral. This person can benefit from the stability of the dai with out opening a CDP. Another use case is create a CDP, take out some dai, and then use the dai to buy more ether. If the price of ether goes up, you can sell it for some dai and close the CDP at a profit. This is essentially a decentralized version of margin trading. 
  
  Slide 8 (risks)
+ 
 What are some of the risks of the system? The main risk of the system is a complete crash of the collateral, ether. This would cause the whole system to be under collateralized. At this point a vote is called for a global settlement. When the global settlement is triggered, the system freezes. Then payments are sent out. If you own 100dai then you will be payed with 100usd worth of ether. Another risk is if there is an unknown bug in the code.
     
 In the future, it is expect that by this summer. Dai is going to be backed by several collaterals, making it a multi collateral stable coin
