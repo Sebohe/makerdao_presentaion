@@ -26,7 +26,7 @@ slide 6 (CDP balance and dai balance)
 
 How is new dai created? The way dai get's generated is by placing ether as a collateral in a smart contract known as Collaterized Debt Positions, CDP. CDPs are similar to a permitionless credit system. In essence, you are lending out your ether to generate dai. Once a CDP is opened you are allowed to withdraw dai from the CDP. The amount of dai you can withdraw depends on the dollars worth of the collateral in the CDP. This means that if you put 1000usd worth of ether in a CDP you can only withdraw 666 dai. The dai always has to be backed by 150% of ether. If the dai of a CDP is not backed by 150% or more of ether then the CDP is under collaterized. If the CDP is under collaterized, the system automatically liquidates your CDP, reclaims the collateral and sells it for the dai that was balanced against it. This is known as a market call. This is done to ensure that the dai that has been created is always backed by some collateral. 
 
-When you want to close a CDP, all you need to do is pay back the dai that you have borrowed from the CDP plus a small fee.  
+When you want to close a CDP, all you need to do is pay back the dai that you have borrowed from the CDP plus a small fee of MKR.
 
 slide 7 (image of mortgaged eth)
 
