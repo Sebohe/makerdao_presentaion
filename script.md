@@ -1,7 +1,5 @@
 Slide 1
 
-What is MakerDAO?
-
 I want everyone to be aware that I believe that blockchains are going to solve all of the worlds problems. Every single one of them. I'm just kidding.
 
 MakerDAO is an organization that has been tackling the problem of creating a stable coin. A stable coin is a crypto currency in which its value has minimal variation in regards to fiat currency. People that currently own crypto currencies like ether or bitcoin are not spending them. Why would they spend something which has the possibility of going up in price tomorrow.
