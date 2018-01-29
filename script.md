@@ -35,6 +35,8 @@ Now I want everyone to be clear with what has just been accomplished. We just mo
 Some use cases for the dai can include the following. A person can buy some dai at the market. Now that person doesn't need to worry about the price volatility of crypto coins knowing very well that his dai is backed by an equivalent dollars worth of collateral. This person can benefit from the stability of the dai with out opening a CDP.
 
 Another use case is create a CDP, take out some dai, and then use the dai to buy more ether. If the price of ether goes up, you can sell it for some dai and close the CDP at a profit. This is essentially a decentralized version of margin trading. 
+
+A third use case is using dai in a predictions market like Augur. Now you aren't on betting the speculative price of ether.
  
  Slide 8 (risks)
  
