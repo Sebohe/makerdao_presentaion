@@ -18,7 +18,7 @@ MKR is the governance token of Dai. Maker owners have the responsibility of gove
 
 slide 5 (image of dai)
 
-In December, MakerDAO released the first fully decentralized stable coin, the dai. The target price of the dai is 1 usd. What do I mean when I say completely decentralized? This means that all of the mechanism to maintain the stability of the dai are running on the ethereum blockchain. It is using ethereum smart contracts for this. Some of mechanisms for this system include a processes for creating new dai, price keeping mechanisms, a way for closing down over exposed collateral, and a way to shutdown the dai system in a graceful manner. 
+In December, MakerDAO released the first fully decentralized stable coin, the dai. The target price of the dai is 1 usd. What do I mean when I say completely decentralized? This means that all of the mechanism to maintain the stability of the dai are running on the ethereum blockchain. It is using ethereum smart contracts for this purpose. Some of mechanisms for this system include a processes for creating new dai, price keeping mechanisms, a way for closing down over exposed collateral, and a way to shutdown the dai system in a graceful manner. 
 
 slide 6 (CDP balance and dai balance)
 
